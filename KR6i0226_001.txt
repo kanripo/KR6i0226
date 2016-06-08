@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:24.661861
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:51
 #+TITLE: 天請問經疏
 #+PROPERTY: CBETA_ID T85n2786
 #+PROPERTY: ID KR6i0226
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2786
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0226_T_001-0562c> 
 #+PROPERTY: JUAN 1
 ¶
-No.2786[cf.No.592]¶
-
- 天請問經疏一卷¶
+No. 2786 [cf. No. 592]¶
+天請問經疏一卷¶
 ¶
 
 (前闕)¶
