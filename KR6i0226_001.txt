@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:24.661861
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:51
 #+TITLE: 天請問經疏
 #+PROPERTY: CBETA_ID T85n2786
 #+PROPERTY: ID KR6i0226
